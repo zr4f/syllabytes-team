@@ -1,6 +1,6 @@
 # Orbit
 
-## Team repository for Software Engineering group project.
+## Team repository for SWE.
 
 ## How to run the project locally
 
